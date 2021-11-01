@@ -2,11 +2,19 @@
 /* CSS Document */
 
 a{
+    display: block;
+    padding:8px;
+}
 
+li{
+    display: inline;
+    float: left;
+    list-style-type: none;
 }
 
 ul{
-    
+    text-align: center;
+    background-color: #150300;
 }
 
 ul li{
