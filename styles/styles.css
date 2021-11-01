@@ -24,7 +24,15 @@ ul li a{
     
 }
 
+.ourstory{
+    width: 50%;
+}
+
 .title{
     width: 50%;
     height: 100px;
+    padding-left: 50px;
+}
+h2{
+    color: lightsalmon;
 }
