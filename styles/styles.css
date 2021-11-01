@@ -10,6 +10,7 @@ li{
     display: inline;
     float: left;
     list-style-type: none;
+
 }
 
 ul{
@@ -18,10 +19,10 @@ ul{
 }
 
 ul li{
-    list-style: none;
     display: inline-block;
     float: left;
-    line-height: 100px;
+    line-height: 50px;
+    background-color: #150300;
 }
 
 ul li a{
@@ -32,7 +33,7 @@ ul li a{
 }
 
 body{
-    background-color: lightgray;
+    background-color: white;
 }
 
 .wrapper{
@@ -65,13 +66,21 @@ body{
 }
 h2{
     color: lightsalmon;
+    font-family: cursive;
 }
 
 .paragraph1{
     width: 50%;
     padding-top: 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 footer{
     padding-top: 50%;
+}
+
+aside{
+    color: lightsalmon;
+    text-decoration: none;
+    text-align: center;
 }
