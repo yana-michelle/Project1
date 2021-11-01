@@ -7,7 +7,7 @@ html{
 }
 
 a{
-
+    background-color: #150300;
 }
 
 ul{
@@ -22,12 +22,13 @@ ul li{
     list-style: none;
     display: inline-block;
     float: left;
+    line-height: 100px;
 }
 
 ul li a{
     text-decoration: none;
-    font-size: 30px;
-    color: black;
+    font-size: 15px;
+    padding: 0 20px;
 }
 
 body{
@@ -35,7 +36,8 @@ body{
 }
 
 .wrapper{
-    width: 50%;
+    padding-left: 50%;
+    float: right;
 }
 
 .nav{
@@ -65,7 +67,8 @@ h2{
     color: lightsalmon;
 }
 
-.paragraph{
-    
+.paragraph1{
+    width: 50%;
+    padding-top: 80px;
 }
 
