@@ -21,7 +21,11 @@ ul li a{
 }
 
 .wrapper{
-    
+    width: 50%;
+}
+
+.nav{
+    background-color: #150300;
 }
 
 .ourstory{
@@ -32,7 +36,15 @@ ul li a{
     width: 50%;
     height: 100px;
     padding-left: 50px;
+    text-align: center;
+    float: left;
 }
 h2{
     color: lightsalmon;
 }
+
+.paragraph{
+    width: 50%;
+    height: auto;
+}
+
